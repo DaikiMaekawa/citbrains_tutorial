@@ -1,4 +1,4 @@
 citbrains_tutorial
 ==================
 
-CITBrainsのGitHub研修用リポジトリ
+CITBrainsのGitHub研修用リポジトリ:smile:
