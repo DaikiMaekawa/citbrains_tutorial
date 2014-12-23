@@ -3,4 +3,4 @@ citbrains_tutorial
 
 CITBrainsのGitHub研修用リポジトリ
 
-これからプルリクエスト投げるぜ :+1
+これからプルリクエスト投げるぜ :+1:
