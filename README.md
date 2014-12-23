@@ -1,4 +1,4 @@
 citbrains_tutorial
 ==================
 
-テスト
+CITBrainsのGitHub研修用リポジトリ
